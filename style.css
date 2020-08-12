@@ -1,0 +1,197 @@
+.blogmudik {
+    height: 9px;
+    font-weight: 600;
+    font-style: normal;
+    text-align: right;
+    color: #261d40;
+}
+
+.download {
+    width: 70pz;
+    height: 9px;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+    color: #432b87;
+    width: 110px;
+    height: 46px;
+    border-radius: 4px;
+    border: solid 2px #432b87;
+}
+.nav-link {
+    text-transform: uppercase;
+    margin-right: 42px;
+}
+
+.nav {
+    padding: 3rem;
+}
+.hero-btn{
+	border: 1px solid #73c700;
+	background-color: #73c700;
+	color:white;
+}
+.download1 {
+    color: white;
+    background-color: #6cbb01;
+}
+.logo {
+	padding: 20px;
+}
+
+.link {
+	margin-left: -0px;
+	color: #261d40;
+	font-family: SourceSansPro-SemiBold;
+}
+
+.btn2 {
+	background-color: #6cbb01;
+	color: white;
+	border-radius: 1px solid;
+	height: 20px;
+	width: 30px;
+}
+.hero-text1 {
+    X: 761px;
+	Y: 950px;
+	width: 480px;
+	height: 148px;
+	opacity: 80%;
+	font-family: SourceSansPro-Regular;
+	font-size: 18px;
+	text-align: left;
+	line-height: 30px;
+	color: rgba(57, 53, 69, 0.8);
+    float: right;
+    margin-top: 70px;
+    margin-left: 40px;
+}
+.service{
+	font-family: sourcesanspro-semibold;
+    padding: 30px;
+
+	text-align: center;
+	color: #261d40;
+	margin-top: 90px;
+}
+.hr {
+    height: 2px;
+    width: 36px;
+    background-color: #757575;
+}
+
+.box-card {
+    height: 528px;
+    background-color: #fafafa;
+	padding: 100px;px;
+   
+    
+}
+.circle1 {
+	margin-left: 500px;
+    opacity: 0.5;
+    color: #1d3954;
+}
+
+.circle2 {
+    color: #432b87;
+    margin-left: 150px;
+    margin-bottom: 15px;
+}
+
+.circle3 {
+    margin-left: -200px;
+    opacity: 0.5;
+    color: #1d3954;
+}
+.icon-people {
+    background-color: #432b87;
+    border-radius: 50px;
+    color: white;
+    margin-left: 17rem;
+    position: relative;
+    margin-bottom: -50px;
+}
+.news {
+	
+	height: 23px;
+	font-family: SourceSansPro-Regular;
+    margin-top: 30px;
+    position: relative;
+    padding: 50px;
+	color: #261d40;
+}
+.img {
+    margin-top: 20px;
+    position: relative;
+}
+.rectangle4-copy3 {
+    width: 40px;
+    height: 2px;
+    background-color: #ff7800;
+    margin-top: 2rem;
+}
+.read {
+    color: #432b87;
+    font-weight: bold;
+}
+
+.p {
+    font-weight: 800;
+    color: white;
+    font-weight: 400;
+    padding: 2px;
+}
+
+.button {
+	padding: 30px;
+	
+}
+.button1 {
+    width: 190px;
+    height: 50px;
+    border-radius: 4px;
+    background-color: #432b87;
+    margin-top: 500px;
+    
+	color: white;
+	font-family: SourceSansPro-Semibold;
+    font-size: 14px;
+    
+}
+.app {
+    margin-top: -30px;
+    padding: 220px;
+    height: 280px;
+    background-color: #fafafa;
+}
+
+.download-app {
+	
+    color: #261d40;
+    margin-top: -100px;
+}
+.button2 {
+    margin-top: -80px;
+    margin-left: 15rem;
+    border: 1px solid #73c700;
+    background-color: #73c700;
+    text-align: center;
+}
+.button3 {
+    border: 1px solid #73c700;
+	background-color: #73c700;
+	color:white;
+}
+.app {
+    height: 300px;
+    width: 100%;
+    margin-top: 40px;
+    background-color: #fafafa;
+}
+.footer {
+    padding: 80px 0;
+    text-align: center;
+    color: black;
+}
